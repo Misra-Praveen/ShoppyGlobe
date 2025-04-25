@@ -21,19 +21,19 @@
 ## 📸 Screenshots
 
 ### 🏠 Home / Browse Products
-![Home Page](/shoppyglobe/src/assets/home.png)
+![Home Page](./src/assets/home.png)
 
 ### 🛍️ Product Detail Page
-![Product Detail](/shoppyglobe/src/assets/ProductDetail.PNG)
+![Product Detail](./src/assets/ProductDetail.PNG)
 
 ### 🛒 Cart Page
-![Cart Page](/shoppyglobe/src/assets/Cart.PNG)
+![Cart Page](./src/assets/Cart.PNG)
 
 ### ✅ Checkout Page
-![Checkout Page](/shoppyglobe/src/assets/CheckOut.PNG)
+![Checkout Page](./src/assets/CheckOut.PNG)
 
 ### ❌ 404 Not Found
-![Not Found](/shoppyglobe/src/assets/NotFound.PNG)
+![Not Found](./src/assets/NotFound.PNG)
 
 ---
 
